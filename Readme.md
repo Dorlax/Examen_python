@@ -18,7 +18,7 @@ Python program to analyze weather forecasts for the next 5 days via the OpenWeat
 
 ## Installation
 
-1. Clone the project or download the .zip:
+1. Clone the project (or download the .zip):
 ```bash
 git clone <repo_url>
 cd weather-forecast
