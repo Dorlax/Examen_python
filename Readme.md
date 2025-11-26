@@ -113,4 +113,4 @@ If you're using Python 3.13, try:
 
 ### API error
 - Check that your API key is valid
-- Make sure you've activated the "5 day / 3 hour forecast" API on your OpenWeatherMap account
+- Make sure you've activated the "5 day / 3 hour forecast" API on your OpenWeatherMap account (you can check it if you go into my services)
