@@ -14,7 +14,7 @@ Python program to analyze weather forecasts for the next 5 days via the OpenWeat
 ## Prerequisites
 
 - Python 3.11 or 3.12 (recommended, Python 3.13 may have compatibility issues)
-- An OpenWeatherMap API key (free at [openweathermap.org](https://openweathermap.org/api) you will need to create an account if you don't own one)
+- An OpenWeatherMap API key (free at [openweathermap.org](https://openweathermap.org/api), you will need to create an account if you don't own one)
 
 ## Installation
 
